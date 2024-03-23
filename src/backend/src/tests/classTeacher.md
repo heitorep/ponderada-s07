@@ -55,6 +55,5 @@ Figura 1: Resultado dos Testes para ClassTeacher
 
 ![Imagem_Teste](../../../../imagens/classTeacher.test.jpg)
 
-<h6 align="center"> Fonte: Elaborado por Clara Coelho Mohammad </h6>
+<h6 align="center"> Fonte: Elaborado por Heitor Elias Prudente </h6>
 
-Fonte: Elaborado por Heitor Elias Prudente.
