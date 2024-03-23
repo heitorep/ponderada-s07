@@ -41,12 +41,14 @@ Para executar os testes, utilize o comando abaixo no terminal:
 ```bash
 npm run test
 ```
-Resultados Obtidos
+## Conclusão
 Os testes foram concluídos com êxito, com todos os cenários passando conforme esperado. Os resultados específicos são:
 
+```bash
 Test Suites: 1 passed
 Tests: 3 passed
 Time: 1.277s
+```
 O sucesso dos testes indica que as funcionalidades para consulta de professores por turma estão operando corretamente e os erros são tratados conforme o esperado.
 
 
@@ -54,7 +56,7 @@ Figura 1: Resultado dos Testes para ClassTeacher
 
 <h6 align="center"> Figura 1: Resultado teste de classTeacher </h6>
 
-![Imagem_Teste](../../../../imagens/classTeacher.test.jpg)
+![Imagem_Teste](./imagens/classTeacher.test.jpg)
 
 <h6 align="center"> Fonte: Elaborado por Heitor Elias Prudente </h6>
 
