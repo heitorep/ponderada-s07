@@ -2,7 +2,14 @@
 
 ## Introdução
 
-Esta seção documenta os testes automatizados para as funcionalidades `ClassTeacherService` e `ClassTeacherController`. Os testes visam assegurar que as operações de consulta de professores por turma funcionem corretamente na API.
+Esta seção documenta os testes automatizados para as funcionalidades `ClassTeacherService` e `ClassTeacherController`. Os testes visam assegurar que as operações de consulta de professores por turma funcionem corretamente na API. 
+
+Os testes e a documentação se encontram no seguinte caminho:
+
+```javascript
+src/backend/src/tests
+```
+
 
 ## Testes Implementados
 
