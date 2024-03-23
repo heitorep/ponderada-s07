@@ -40,6 +40,7 @@ Para executar os testes, utilize o comando abaixo no terminal:
 
 ```bash
 npm run test
+```
 Resultados Obtidos
 Os testes foram concluídos com êxito, com todos os cenários passando conforme esperado. Os resultados específicos são:
 
