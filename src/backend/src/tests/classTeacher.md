@@ -47,7 +47,7 @@ Test Suites: 1 passed
 Tests: 3 passed
 Time: 1.277s
 O sucesso dos testes indica que as funcionalidades para consulta de professores por turma estão operando corretamente e os erros são tratados conforme o esperado.
-
+```
 
 Figura 1: Resultado dos Testes para ClassTeacher
 
